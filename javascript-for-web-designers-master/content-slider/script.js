@@ -8,7 +8,7 @@
  * - Add an event listener for previous button
  * - Add an event listener for window resize
  * - Declare a function that calculates the tallest slide
- * - Declare a function that will change the slide position
+ * - Declare a function that will change the slide positåion
  */
 var slides = document.getElementsByClassName('slide'),
     slider = document.getElementById('slider'),
